@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>Adding a video</h1>
+        <video src="VIDEOS/Deathstroke.Knights.Dragons.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4"height="714"width="1280"control></video>
+    </head>
+</html>
